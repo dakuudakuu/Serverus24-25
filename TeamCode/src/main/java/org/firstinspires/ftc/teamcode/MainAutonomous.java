@@ -27,6 +27,7 @@ public class MainAutonomous extends LinearOpMode {
         private final Servo claw;
         private final Servo wrist;
         private final Servo arm;
+        private final boolean isdumb = true;
 
         private double armPos = ServoConfig.ARM_UP;
         private double clawPos = ServoConfig.CLAW_CLOSED;

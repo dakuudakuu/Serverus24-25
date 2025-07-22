@@ -125,7 +125,7 @@ public class SpecBucketAutonomous extends LinearOpMode {
             return new ArmHook();
         }
 
-        //Sets claw position variable to the "Closed" position variable
+        //Sets Claw position variable to the "Closed" position variable
         public class BackGrab implements Action {
             @Override
             public boolean run(@NonNull TelemetryPacket telemetryPacket) {
