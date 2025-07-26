@@ -10,7 +10,7 @@ public class ServoConfig {
     public static final double ARM_UP = 1;
     public static final double ARM_MIDDLE = 0.83;
     public static final double ARM_HOOK = 0.78;
-    public static final double ARM_DOWN = 0.61;
+    public static final double ARM_DOWN = 0.69;
 
     //Claw Positions
     public static final double CLAW_OPEN = 1;
